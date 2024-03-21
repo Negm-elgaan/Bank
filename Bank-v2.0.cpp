@@ -1275,6 +1275,7 @@ void Login()
     bool c = true;
     while (c == true)
     {
+        system("Color FC");
         sUser User ;
         system("cls");
         vector <sUser> vUsers = LoadUsersFromFiletoVector(UsersFileName);
