@@ -151,6 +151,7 @@ public:
     }
 };*/
 //  Abu-Hadhoud Class:
+
 class clsInputValidate
 {
 
@@ -182,6 +183,14 @@ public:
     }
     */
     static bool IsNumberBetween(double Number, double From, double To)
+    {
+        if (Number >= From && Number <= To)
+            return true;
+        else
+            return false;
+    }
+
+    template <typename T> T IsNumberBetweenTemplate(T Number, T From, T To)
     {
         if (Number >= From && Number <= To)
             return true;
@@ -268,6 +277,17 @@ public:
             cin.clear();
             cin.ignore(numeric_limits<streamsize>::max(), '\n');
             cout << ErrorMessage;
+        }
+        return Number;
+    }
+
+    template <typename T> T ReadNumberBetween(T From, T To, string ErrorMessage = "Number is not within range, Enter again:\n")
+    {
+        T Number = 0;
+            cin >> Number;
+        while (!IsNumberBetween(Number, From, To)) {
+            cout << ErrorMessage;
+            Number = ReadDblNumber();
         }
         return Number;
     }

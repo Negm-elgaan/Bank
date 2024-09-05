@@ -43,10 +43,10 @@ C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsBankClient.h(446,32): warning C424
 C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsBankClient.h(458,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsInputValidate.h(277,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsInputValidate.h(297,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsInputValidate.h(281,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsInputValidate.h(301,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Bank.cpp')
   
 C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label

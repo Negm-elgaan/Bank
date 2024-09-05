@@ -162,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 35,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -200,6 +200,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "Bank\\clsInputValidate.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsInputValidate.h",
+              "RelativeToolTip": "Bank\\clsInputValidate.h",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAAABsBAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-05T00:13:59.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "clsCurrencyCalculatorScreen.h",
               "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsCurrencyCalculatorScreen.h",
@@ -208,8 +221,7 @@
               "RelativeToolTip": "Bank\\clsCurrencyCalculatorScreen.h",
               "ViewState": "AQIAADYAAAAAAAAAAAAAAEoAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-04T22:16:56.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T22:16:56.631Z"
             },
             {
               "$type": "Document",
@@ -221,8 +233,7 @@
               "RelativeToolTip": "Bank\\clsUpdateCurrencyRateScreen.h",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAACcAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-04T12:59:26.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T12:59:26.644Z"
             },
             {
               "$type": "Document",
@@ -258,8 +269,7 @@
               "RelativeToolTip": "Bank\\clsCurrencyExchangeScreen.h",
               "ViewState": "AQIAACUAAAAAAAAAAAAAADQAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-23T04:23:46.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T04:23:46.794Z"
             },
             {
               "$type": "Document",
@@ -271,8 +281,7 @@
               "RelativeToolTip": "Bank\\clsCurrency.h",
               "ViewState": "AQIAALMAAAAAAAAAAAAAAAoBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-23T04:16:06.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T04:16:06.164Z"
             },
             {
               "$type": "Document",
@@ -573,19 +582,6 @@
               "ViewState": "AQIAACUAAAAAAAAAAAAAAEQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-07-23T05:20:58.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "clsInputValidate.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsInputValidate.h",
-              "RelativeDocumentMoniker": "Bank\\clsInputValidate.h",
-              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsInputValidate.h",
-              "RelativeToolTip": "Bank\\clsInputValidate.h",
-              "ViewState": "AQIAAAsBAAAAAAAAAADwvx8BAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-05T00:13:59.363Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
