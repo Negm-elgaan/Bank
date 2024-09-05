@@ -282,6 +282,12 @@ public:
         }
         return Number;
     }
+
+    template <typename T> T myMax(T number1, T number2)
+    {
+        return (number1 > number2) ? number1 : number2;
+    }
+
     static string ReadString()
     {
         string  S1 = "";

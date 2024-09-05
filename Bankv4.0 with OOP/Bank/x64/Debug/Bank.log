@@ -1,60 +1,83 @@
 ﻿  Bank.cpp
-C:\Users\omarh\OOP\Bank\Bank\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsdate.h(21,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsdate.h(21,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsBankClient.h(32,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank.cpp')
+  C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsBankClient.h(153,12):
+  see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsBankClient.h(32,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsBankClient.h(415,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsBankClient.h(163,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsBankClient.h(427,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsBankClient.h(164,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsInputValidate.h(277,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsBankClient.h(165,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsInputValidate.h(281,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsBankClient.h(446,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsBankClient.h(458,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsUser.h(444,6): warning C4091: 'static ': ignored on left of 'clsUser::stLoginRegisterRecord' when no variable is declared
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsInputValidate.h(277,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsInputValidate.h(281,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsTotalBalancesScreen.h(59,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsUser.h(444,6): warning C4091: 'static ': ignored on left of 'clsUser::stLoginRegisterRecord' when no variable is declared
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\clsTransferScreen.h(50,4): warning C4091: 'static ': ignored on left of 'clsTransferScreen::stTransferLogRecord' when no variable is declared
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Bank.cpp')
   
-C:\Users\omarh\OOP\Bank\Bank\Bank.cpp(32,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\omarh\OOP\Bank\Bank\Bank.cpp(126,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\omarh\OOP\Bank\Bank\clsBankClient.h(359,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
-C:\Users\omarh\OOP\Bank\Bank\clsUser.h(367,1): warning C4715: 'clsUser::Save': not all control paths return a value
-  Bank.vcxproj -> C:\Users\omarh\OOP\Bank\x64\Debug\Bank.exe
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsTotalBalancesScreen.h(59,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsTransferScreen.h(50,4): warning C4091: 'static ': ignored on left of 'clsTransferScreen::stTransferLogRecord' when no variable is declared
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsCurrencyCalculatorScreen.h(25,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsCurrencyCalculatorScreen.h(45,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\Bank.cpp(32,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\Bank.cpp(126,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsBankClient.h(390,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\omarh\Bank\Bankv4.0 with OOP\Bank\clsUser.h(367,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank.vcxproj -> C:\Users\omarh\Bank\Bankv4.0 with OOP\x64\Debug\Bank.exe

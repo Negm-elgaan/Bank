@@ -47,6 +47,7 @@ private:
     {
         clsTransferScreen::ShowTransferScreen();
     }
+
     static void _ShowTotalBalancesScreen()
     {
         // cout << "\n Balances Screen will be here.\n";

@@ -1,133 +1,158 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\omarh\\OOP\\Bank\\",
+  "WorkspaceRootPath": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsLoginRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsLoginRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\Bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\Bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsdate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsdate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsCurrencyExchangeScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsCurrencyExchangeScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsListCurrenciesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsListCurrenciesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsLoginRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsLoginRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsLoanScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsLoanScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\Bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\Bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsDepositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsListUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsTotalBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsdate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsdate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40830FAD-175E-4812-BA01-AE92D82A291F}|Bank\\Bank.vcxproj|solutionrelative:Bank\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -137,21 +162,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 35,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "clsLoginScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsLoginScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsLoginScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsLoginScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsLoginScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsLoginScreen.h",
               "RelativeToolTip": "Bank\\clsLoginScreen.h",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAADoAAAAjAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-05T17:51:44.229Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUtil.h",
+              "RelativeDocumentMoniker": "Bank\\clsUtil.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUtil.h",
+              "RelativeToolTip": "Bank\\clsUtil.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-12T07:51:36.299Z",
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -164,61 +201,134 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "clsTransferLogScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsTransferLogScreen.h",
-              "RelativeDocumentMoniker": "Bank\\clsTransferLogScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsTransferLogScreen.h",
-              "RelativeToolTip": "Bank\\clsTransferLogScreen.h",
-              "ViewState": "AQIAAGAAAAAAAAAAAADwv4QAAAACAAAA",
+              "Title": "clsCurrencyCalculatorScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsCurrencyCalculatorScreen.h",
+              "RelativeDocumentMoniker": "Bank\\clsCurrencyCalculatorScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsCurrencyCalculatorScreen.h",
+              "RelativeToolTip": "Bank\\clsCurrencyCalculatorScreen.h",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEoAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T03:37:33.918Z",
+              "WhenOpened": "2024-09-04T22:16:56.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "vector",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
-              "ViewState": "AQIAAFkHAAAAAAAAAAAWwGQHAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-16T01:40:37.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "clsBankClient.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsBankClient.h",
-              "RelativeDocumentMoniker": "Bank\\clsBankClient.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsBankClient.h",
-              "RelativeToolTip": "Bank\\clsBankClient.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAKoAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "clsUpdateCurrencyRateScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUpdateCurrencyRateScreen.h",
+              "RelativeDocumentMoniker": "Bank\\clsUpdateCurrencyRateScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUpdateCurrencyRateScreen.h",
+              "RelativeToolTip": "Bank\\clsUpdateCurrencyRateScreen.h",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACcAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-30T12:07:36.823Z",
+              "WhenOpened": "2024-09-04T12:59:26.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "clsLoginRegisterScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsLoginRegisterScreen.h",
-              "RelativeDocumentMoniker": "Bank\\clsLoginRegisterScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsLoginRegisterScreen.h",
-              "RelativeToolTip": "Bank\\clsLoginRegisterScreen.h",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABgAAAAyAAAA",
+              "Title": "clsFindCurrencyScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsFindCurrencyScreen.h",
+              "RelativeDocumentMoniker": "Bank\\clsFindCurrencyScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsFindCurrencyScreen.h",
+              "RelativeToolTip": "Bank\\clsFindCurrencyScreen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-12T18:36:51.509Z",
+              "WhenOpened": "2024-09-03T04:40:31.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsListCurrenciesScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsListCurrenciesScreen.h",
+              "RelativeDocumentMoniker": "Bank\\clsListCurrenciesScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsListCurrenciesScreen.h",
+              "RelativeToolTip": "Bank\\clsListCurrenciesScreen.h",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-31T20:00:13.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsCurrencyExchangeScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsCurrencyExchangeScreen.h",
+              "RelativeDocumentMoniker": "Bank\\clsCurrencyExchangeScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsCurrencyExchangeScreen.h",
+              "RelativeToolTip": "Bank\\clsCurrencyExchangeScreen.h",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-23T04:23:46.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "clsCurrency.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsCurrency.h",
+              "RelativeDocumentMoniker": "Bank\\clsCurrency.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsCurrency.h",
+              "RelativeToolTip": "Bank\\clsCurrency.h",
+              "ViewState": "AQIAALMAAAAAAAAAAAAAAAoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-23T04:16:06.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsLoanScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsLoanScreen.h",
+              "RelativeDocumentMoniker": "Bank\\clsLoanScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsLoanScreen.h",
+              "RelativeToolTip": "Bank\\clsLoanScreen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-21T17:02:35.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsTransferLogScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsTransferLogScreen.h",
+              "RelativeDocumentMoniker": "Bank\\clsTransferLogScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsTransferLogScreen.h",
+              "RelativeToolTip": "Bank\\clsTransferLogScreen.h",
+              "ViewState": "AQIAAGAAAAAAAAAAAADwv4QAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-16T03:37:33.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsBankClient.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsBankClient.h",
+              "RelativeDocumentMoniker": "Bank\\clsBankClient.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsBankClient.h",
+              "RelativeToolTip": "Bank\\clsBankClient.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-30T12:07:36.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsLoginRegisterScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsLoginRegisterScreen.h",
+              "RelativeDocumentMoniker": "Bank\\clsLoginRegisterScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsLoginRegisterScreen.h",
+              "RelativeToolTip": "Bank\\clsLoginRegisterScreen.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T18:36:51.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Bank.cpp",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\Bank.cpp",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\Bank.cpp",
               "RelativeDocumentMoniker": "Bank\\Bank.cpp",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\Bank.cpp",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\Bank.cpp",
               "RelativeToolTip": "Bank\\Bank.cpp",
               "ViewState": "AQIAAAsBAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -226,24 +336,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "clsRegisterScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsRegisterScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsRegisterScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsRegisterScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsRegisterScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsRegisterScreen.h",
               "RelativeToolTip": "Bank\\clsRegisterScreen.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-05T18:21:25.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T18:21:25.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "Global.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\Global.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\Global.h",
               "RelativeDocumentMoniker": "Bank\\Global.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\Global.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\Global.h",
               "RelativeToolTip": "Bank\\Global.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -251,35 +360,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "clsFindUserScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsFindUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsFindUserScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsFindUserScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsFindUserScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsFindUserScreen.h",
               "RelativeToolTip": "Bank\\clsFindUserScreen.h",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAjAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-05T12:35:13.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 7,
               "Title": "clsUpdateUserScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsUpdateUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUpdateUserScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsUpdateUserScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsUpdateUserScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUpdateUserScreen.h",
               "RelativeToolTip": "Bank\\clsUpdateUserScreen.h",
-              "ViewState": "AQIAAGkAAAAAAAAAAADgv4AAAAAKAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAALcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-03T20:36:51.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "clsDeleteUserScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsDeleteUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsDeleteUserScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsDeleteUserScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsDeleteUserScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsDeleteUserScreen.h",
               "RelativeToolTip": "Bank\\clsDeleteUserScreen.h",
               "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -287,11 +396,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "clsAddNewUserScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsAddNewUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsAddNewUserScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsAddNewUserScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsAddNewUserScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsAddNewUserScreen.h",
               "RelativeToolTip": "Bank\\clsAddNewUserScreen.h",
               "ViewState": "AQIAAI4AAAAAAAAAAAAAAKAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -299,11 +408,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "clsListUsersScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsListUsersScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsListUsersScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsListUsersScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsListUsersScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsListUsersScreen.h",
               "RelativeToolTip": "Bank\\clsListUsersScreen.h",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAACIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -311,11 +420,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "clsManageUsersScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsManageUsersScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsManageUsersScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsManageUsersScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsManageUsersScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsManageUsersScreen.h",
               "RelativeToolTip": "Bank\\clsManageUsersScreen.h",
               "ViewState": "AQIAAHAAAAAAAAAAAAAAAIQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -323,36 +432,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "clsUser.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsUser.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUser.h",
               "RelativeDocumentMoniker": "Bank\\clsUser.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsUser.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUser.h",
               "RelativeToolTip": "Bank\\clsUser.h",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAmwCUAAAAjAAAA",
+              "ViewState": "AQIAABUBAAAAAAAAAAAAABEBAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-30T20:15:51.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T20:15:51.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "clsTransferScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsTransferScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsTransferScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsTransferScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsTransferScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsTransferScreen.h",
               "RelativeToolTip": "Bank\\clsTransferScreen.h",
-              "ViewState": "AQIAAPwAAAAAAAAAAAAAABkBAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-07-30T18:10:27.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "clsTotalBalancesScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsTotalBalancesScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsTotalBalancesScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsTotalBalancesScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsTotalBalancesScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsTotalBalancesScreen.h",
               "RelativeToolTip": "Bank\\clsTotalBalancesScreen.h",
               "ViewState": "AQIAABAAAAAAAAAAAAAAAB8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -360,11 +468,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "clsWithdrawScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsWithdrawScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsWithdrawScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsWithdrawScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsWithdrawScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsWithdrawScreen.h",
               "RelativeToolTip": "Bank\\clsWithdrawScreen.h",
               "ViewState": "AQIAABMAAAAAAAAAAADgvykAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -372,11 +480,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "clsDepositScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsDepositScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsDepositScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsDepositScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsDepositScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsDepositScreen.h",
               "RelativeToolTip": "Bank\\clsDepositScreen.h",
               "ViewState": "AQIAACQAAAAAAAAAAAAAACsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -384,24 +492,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "clsTransactionsScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsTransactionsScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsTransactionsScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsTransactionsScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsTransactionsScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsTransactionsScreen.h",
               "RelativeToolTip": "Bank\\clsTransactionsScreen.h",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAJsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-26T08:31:29.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T08:31:29.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "clsFindClientScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsFindClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsFindClientScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsFindClientScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsFindClientScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsFindClientScreen.h",
               "RelativeToolTip": "Bank\\clsFindClientScreen.h",
               "ViewState": "AQIAABQAAAAAAAAAAAAAACcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -409,23 +516,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 10,
               "Title": "clsMainScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsMainScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsMainScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsMainScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsMainScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsMainScreen.h",
               "RelativeToolTip": "Bank\\clsMainScreen.h",
-              "ViewState": "AQIAAKsAAAAAAAAAAAAAALkAAAAKAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAqwHIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-07-14T06:22:10.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "clsUpdateClientScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsUpdateClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUpdateClientScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsUpdateClientScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsUpdateClientScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsUpdateClientScreen.h",
               "RelativeToolTip": "Bank\\clsUpdateClientScreen.h",
               "ViewState": "AQIAACEAAAAAAAAAAADgvz0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -433,11 +540,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "clsAddNewClientScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsAddNewClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsAddNewClientScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsAddNewClientScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsAddNewClientScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsAddNewClientScreen.h",
               "RelativeToolTip": "Bank\\clsAddNewClientScreen.h",
               "ViewState": "AQIAACAAAAAAAAAAAADgvzwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -445,11 +552,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "clsDeleteClientScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsDeleteClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsDeleteClientScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsDeleteClientScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsDeleteClientScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsDeleteClientScreen.h",
               "RelativeToolTip": "Bank\\clsDeleteClientScreen.h",
               "ViewState": "AQIAABMAAAAAAAAAAAAAACYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -457,35 +564,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "clsClientListScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsClientListScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsClientListScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsClientListScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsClientListScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsClientListScreen.h",
               "RelativeToolTip": "Bank\\clsClientListScreen.h",
-              "ViewState": "AQIAAAgAAAAAAAAAAADgvygAAAAKAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAEQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-07-23T05:20:58.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 0,
               "Title": "clsInputValidate.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsInputValidate.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsInputValidate.h",
               "RelativeDocumentMoniker": "Bank\\clsInputValidate.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsInputValidate.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsInputValidate.h",
               "RelativeToolTip": "Bank\\clsInputValidate.h",
-              "ViewState": "AQIAADYBAAAAAAAAAAAAAKUAAAAGAAAA",
+              "ViewState": "AQIAAAsBAAAAAAAAAADwvx8BAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-05T00:13:59.363Z"
+              "WhenOpened": "2024-07-05T00:13:59.363Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "clsScreen.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsScreen.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsScreen.h",
               "RelativeDocumentMoniker": "Bank\\clsScreen.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsScreen.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsScreen.h",
               "RelativeToolTip": "Bank\\clsScreen.h",
               "ViewState": "AQIAAA0AAAAAAAAAAADgvxUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -493,23 +601,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "clsUtil.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsUtil.h",
-              "RelativeDocumentMoniker": "Bank\\clsUtil.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsUtil.h",
-              "RelativeToolTip": "Bank\\clsUtil.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8BAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-12T07:51:36.299Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "clsdate.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsdate.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsdate.h",
               "RelativeDocumentMoniker": "Bank\\clsdate.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsdate.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsdate.h",
               "RelativeToolTip": "Bank\\clsdate.h",
               "ViewState": "AQIAAG4AAAAAAAAAAADwv5AAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -517,11 +613,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "clsPerson.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsPerson.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsPerson.h",
               "RelativeDocumentMoniker": "Bank\\clsPerson.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsPerson.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsPerson.h",
               "RelativeToolTip": "Bank\\clsPerson.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -529,11 +625,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "clsString.h",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsString.h",
+              "DocumentMoniker": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsString.h",
               "RelativeDocumentMoniker": "Bank\\clsString.h",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\Bank\\Bank\\clsString.h",
+              "ToolTip": "C:\\Users\\omarh\\Bank\\Bankv4.0 with OOP\\Bank\\clsString.h",
               "RelativeToolTip": "Bank\\clsString.h",
               "ViewState": "AQIAADMBAAAAAAAAAAAAAAgCAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
